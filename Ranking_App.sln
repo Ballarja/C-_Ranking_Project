@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ranking_App.Server", "Ranking_App.Server\Ranking_App.Server.csproj", "{4D83FE83-ECF5-4732-ACCB-4A7C1A1970BC}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ranking_app.client", "ranking_app.client\ranking_app.client.esproj", "{DC82F3C0-4376-4EC6-9485-6C01ABB3F3C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D83FE83-ECF5-4732-ACCB-4A7C1A1970BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D83FE83-ECF5-4732-ACCB-4A7C1A1970BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D83FE83-ECF5-4732-ACCB-4A7C1A1970BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D83FE83-ECF5-4732-ACCB-4A7C1A1970BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC82F3C0-4376-4EC6-9485-6C01ABB3F3C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC82F3C0-4376-4EC6-9485-6C01ABB3F3C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC82F3C0-4376-4EC6-9485-6C01ABB3F3C5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DC82F3C0-4376-4EC6-9485-6C01ABB3F3C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC82F3C0-4376-4EC6-9485-6C01ABB3F3C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC82F3C0-4376-4EC6-9485-6C01ABB3F3C5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1475F27-9A40-4116-8708-A3B29BE49E43}
+	EndGlobalSection
+EndGlobal
